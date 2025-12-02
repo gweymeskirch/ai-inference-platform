@@ -1,11 +1,11 @@
 # AI Inference Platform
 
-Projet multi-plateforme pour l'inférence IA utilisant RTX 5070 Ti + i7-13700K et Raspberry Pi 5 + USB Coral.
+Multi-plateform project for AI inference using nvidia RTX 5070 Ti 16 Go + i7-13700K and Raspberry Pi 5 + USB Coral.
 
-## Contenu
+## Content
 
-- Code Python unifié pour deux plateformes
-- Scripts d'initialisation Arch Linux et Linux générique
-- Configuration YAML pour modèles et devices
-- Documentation complète
+- unified python code for this plateforms plateformes
+- initialisation scripts (Arch Linux and genric Linux)
+- YAML configuration for models and devices
+- documentation
 
