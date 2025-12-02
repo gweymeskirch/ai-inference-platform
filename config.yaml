@@ -1,0 +1,7 @@
+device: auto
+models:
+  yolov8n:
+    onnx: models/yolov8n.onnx
+    tflite: models/yolov8n.tflite
+    edge_tpu: models/yolov8n_edgetpu.tflite
+input_size: [640, 640]
